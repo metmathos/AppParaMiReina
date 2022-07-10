@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Para mi reina</string>
+    <string name="frase_button">OTRA FRASE!</string>
+    <string name="titulo1">Lago Puelo</string>
+    <string name="titulo2">Lago Puelo</string>
+    <string name="titulo3">Buenos Aires</string>
+    <string name="titulo4">Peninsula Valdez</string>
+    <string name="titulo5">Cerro Catedral</string>
+    <string name="titulo6">Lago Meliquina</string>
+    <string name="titulo7">Primeros Pinos</string>
+    <string name="titulo8">Avion</string>
+    <string name="titulo9">Cartagena</string>
+    <string name="titulo10">Cartagena</string>
+    <string name="fecha1">25 de Septiembre de 2013</string>
+    <string name="fecha2">25 de Septiembre de 2013</string>
+    <string name="fecha3">31 de Diciembre de 2013</string>
+    <string name="fecha4">14 de Marzo de 2014</string>
+    <string name="fecha5">18 de Marzo de 2014</string>
+    <string name="fecha6">20 de Marzo de 2014</string>
+    <string name="fecha7">16 de Agosto de 2014</string>
+    <string name="fecha8">4 de Octubre de 2016</string>
+    <string name="fecha9">4 de Octubre de 2016</string>
+    <string name="fecha10">5 de Octubre de 2016</string>
+    <string name="frase1">"Como Romeo a Julieta, debajo de su balcon, asi yo te ofrezco mi alma y mi corazon"</string>
+    <string name="frase2">"Tan solo viendo como me miras, mi pulso se acelera, y el corazon suspira"</string>
+    <string name="frase3">"En un libro muy cuidado tengo para vos guardado, un sueño, una flor, y este corazon enamorado"</string>
+    <string name="frase4">"Todo el mundo se dio cuenta del modo que nos miramos, y aunque no digamos nada, y asaben que nos amamos"</string>
+    <string name="frase5">"Yo soy como un capitan que al manejar el timon, su barco va llevando al puerto de tu corazon"</string>
+    <string name="frase6">"El dia que naciste que triste se puso el sol, al ver que otro sol nacia con mucho mas esplendor!"</string>
+    <string name="frase7">"De un rosal corte una rosa, de una magnolia una flor, para completar el ramo solo falta tu amor"</string>
+    <string name="frase8">"Yo quisiera ser el sol, para entrar por la ventana y darte los buenos dias, acostadita en la cama"</string>
+    <string name="frase9">"Cuando yo te conoci, encanto de mi pasion, al momento resolvi, entregarte el corazon"</string>
+    <string name="frase10">"Tus ojos de lucero, veo y adniro. Y mas me iluminan, cuanto mas los miro"</string>
+
+</resources>
